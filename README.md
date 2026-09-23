@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**nivethithaknpsbv-bit/nivethithaknpsbv-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Science Engineering student interested in software development.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- C Programming
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Improve my programming fundamentals,pratical knowledge
+- Build projects
+- Explore different areas of Computer Science
+- Become a Software Engineer
+
+### 💻 My Coding Journey
+I'm currently learning and documenting my progress through small programs and projects.
+
+Thanks for visiting my profile! 😊
